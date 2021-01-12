@@ -1,5 +1,9 @@
 # vue-app
 
+This repo demo for github-actions and github-pages. 
+When you commit in the main branch github-actions auto triggered and it build the vue app. After building vue app it commits in gh-pages branch.
+Github-pages auto deploy after any commit in this branch.
+
 ## Project setup
 ```
 npm install
